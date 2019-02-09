@@ -3,7 +3,7 @@
 - New features:
     - ?
 - Improvements:
-    - ?
+    - Use Map value as column source in a Colum Set (Feature Request #40)
 - Bugs fixed:
     - ?
 - Other:
